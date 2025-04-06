@@ -1,28 +1,9 @@
-# Social Media Trend Analysis
-
-## Project Overview
-This project focuses on analyzing trending topics from social media platforms such as Twitter, Instagram, and LinkedIn. The aim is to understand user interests, emerging topics, and market shifts based on social media data.
-
-## Tools & Technologies Used
-- Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- Excel Functions  
-- VBA (Visual Basic for Applications) for automation  
-
-## Key Features
-- Data cleaning and preparation in Excel  
-- Analysis of trending topics across Twitter, Instagram, and LinkedIn  
-- Visualization of insights using Pivot Charts  
-- Automated reporting using VBA  
-- Interpretation of user interest patterns and market behavior  
-
-## Objective
-To provide actionable insights by analyzing social media trends and helping businesses or marketers understand the changing interests of their target audience.
-## Output
-- Interactive Pivot Charts showing trend patterns  
-- Automated reports summarizing key insights  
-- Data-driven recommendations based on social media analysis 
 # README — Social Media Trend Analysis Report
+
+## Overview
+This project analyzes social media trends using pivot tables to uncover user interests, platform engagement, and market shifts across Twitter, Instagram, and Facebook. The analysis was done using historical data from 2010 to 2023.
+
+---
 
 ## Key Analysis & Findings
 
@@ -69,17 +50,38 @@ An analysis was done across three platforms (Twitter, Instagram, and Facebook) u
 
 ---
 
-## Conclusion
-The pivot tables used in this analysis provide valuable insights into:
+## Key Findings
 
-- Trending topics and user interests (Hashtag Analysis)  
-- User engagement patterns over time (Engagement Trend Analysis)  
-- Emotional tone of user content (Sentiment Analysis)  
-- Platform-specific engagement (Platform-wise Analysis)  
+- There is a strong correlation between trending hashtags and positive sentiment — most of the top hashtags analyzed reflect positivity, hope, and emotional connection.
 
-These insights can guide businesses, marketers, and content creators in understanding market shifts, improving engagement strategies, and targeting their audience effectively.
+- Engagement (likes and retweets) has been growing steadily from 2010 to 2023, indicating increased user activity and interest in social media platforms over time.
 
+- Instagram is the most engaging platform based on the analyzed data, outperforming Twitter and Facebook in both likes and retweets. This suggests Instagram has a highly active and responsive user base.
+
+- Positive sentiments such as `Joy`, `Excitement`, and `Hope` dominate across social media platforms, showing users engage more with emotionally uplifting content.
+
+---
+
+## Conclusion & Recommendations
+
+- Brands and marketers should align their campaigns with trending positive hashtags to maximize visibility and engagement.
+
+- Instagram should be prioritized for marketing efforts due to its higher user engagement levels compared to Twitter and Facebook.
+
+- Content strategies should focus on emotional and uplifting messaging since positive sentiments drive higher user interaction.
+
+- Regular monitoring of hashtags and sentiment analysis is essential for businesses to stay updated with market shifts and evolving user interests.
+
+- Increased engagement trends from 2010 to 2023 highlight the growing influence of social media in shaping public opinion, marketing, and consumer behavior.
+
+---
+
+## Tools Used
+- Microsoft Excel (Pivot Tables)  
+- Social Media Data (Twitter, Instagram, Facebook)  
+
+---
 
 ## Author
-Frida Katana Kitsao
-
+Frida Katana Kitsao  
+Social Media Trend Analysis — 2025  
