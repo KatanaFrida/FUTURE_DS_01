@@ -85,3 +85,4 @@ An analysis was done across three platforms (Twitter, Instagram, and Facebook) u
 ## Author
 Frida Katana Kitsao  
 Social Media Trend Analysis — 2025  
+
