@@ -80,9 +80,16 @@ An analysis was done across three platforms (Twitter, Instagram, and Facebook) u
 - Microsoft Excel (Pivot Tables)  
 - Social Media Data (Twitter, Instagram, Facebook)  
 
----
+
+## Project Status
+Completed as Project #1 at Future Intern
 
 ## Author
-Frida Katana Kitsao  
-Social Media Trend Analysis — 2025  
+FRIDA KATANA KITSAO 
+Future Intern  
+https://www.linkedin.com/in/frida-katana-kitsao-701433231/
+
+## Acknowledgments
+Special thanks to the Future Intern program for providing the opportunity to work on this meaningful project focused on improving road safety through data analysis.
+
 
